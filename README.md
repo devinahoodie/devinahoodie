@@ -1,8 +1,5 @@
 ### Nice to see you! 👋
 
-<!--
-**devinahoodie/devinahoodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working for a construction consultant building web applications
 - 🌱 I’m currently learning Laravel, Vue and Spring ...
 - 👯 I’m looking to collaborate on projects by either adding to the code base of translating guides/manuals from Spanish to English
@@ -11,4 +8,3 @@
 - 📫 How to reach me: [ruiz.windows@gmail.com]
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I got into computers because of vido games :D
--->
